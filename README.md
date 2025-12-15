@@ -1,5 +1,14 @@
 # Go Weather Console API
 #### Video Demo: <URL HERE>
+
+#### Project Information:
+- **Project Title:** Go Weather Console API
+- **Developer Name:** Rohan Honnakatti
+- **GitHub Username:** rohanyh101
+- **edX Username:** ROHANYH
+- **Location:** Hubballi, Karnataka, India
+- **Video Recording Date:** 15/12/2025
+
 ## Description:
 
 The Go Weather Console API is a command-line weather application built in Go that fetches real-time weather data and hourly forecasts from the WeatherAPI service. This project demonstrates the power of Go's simplicity and efficiency in creating practical command-line tools that provide users with essential weather information in an elegant, colorized terminal interface.
