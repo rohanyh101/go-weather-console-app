@@ -1,8 +1,6 @@
 # Go Weather Console API
 #### Video Demo: <URL HERE>
-#### Description:
-
-## Overview
+## Description:
 
 The Go Weather Console API is a command-line weather application built in Go that fetches real-time weather data and hourly forecasts from the WeatherAPI service. This project demonstrates the power of Go's simplicity and efficiency in creating practical command-line tools that provide users with essential weather information in an elegant, colorized terminal interface.
 
