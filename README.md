@@ -1,5 +1,5 @@
 # Go Weather Console API
-#### Video Demo: <URL HERE>
+#### Video Demo: https://youtu.be/vnfkt6-O0T0
 
 #### Project Information:
 - **Project Title:** Go Weather Console API
